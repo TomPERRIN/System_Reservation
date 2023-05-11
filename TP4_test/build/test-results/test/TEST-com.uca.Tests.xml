@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-04T08:57:18" hostname="tracass-lenovo" time="0.246">
+  <properties/>
+  <testcase name="testConvertArabRoman()" classname="com.uca.Tests" time="0.054"/>
+  <testcase name="testConvertRomanArab()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testPair()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testTout()" classname="com.uca.Tests" time="0.162"/>
+  <testcase name="testPrefixes()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testRepitition()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testInterval()" classname="com.uca.Tests" time="0.011"/>
+  <testcase name="testNegative()" classname="com.uca.Tests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
