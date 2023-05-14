@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-05-14T09:58:48" hostname="tracass-lenovo" time="0.107">
+  <properties/>
+  <testcase name="testDatesVol()" classname="com.uca.Tests" time="0.042"/>
+  <testcase name="testSuppVolCompagnie()" classname="com.uca.Tests" time="0.006"/>
+  <testcase name="testVillesAeroport()" classname="com.uca.Tests" time="0.004"/>
+  <testcase name="testModifCompagnie()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testValidationEtAnnulationReservation()" classname="com.uca.Tests" time="0.013"/>
+  <testcase name="testSuppReservationClientEtVolEtPassager()" classname="com.uca.Tests" time="0.003"/>
+  <testcase name="testRemoveEscale()" classname="com.uca.Tests" time="0.005"/>
+  <testcase name="testAddReservationClientEtVolEtPassager()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testEscale()" classname="com.uca.Tests" time="0.005"/>
+  <testcase name="testAnnulationVol()" classname="com.uca.Tests" time="0.001"/>
+  <testcase name="testsListeVolsCompagnie()" classname="com.uca.Tests" time="0.001"/>
+  <system-out><![CDATA[test1A
+test1A
+test1A
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
